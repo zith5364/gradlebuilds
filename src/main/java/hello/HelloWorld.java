@@ -6,6 +6,6 @@ public class HelloWorld {
   public static void main(String[] args) {
     LocalTime currentTime = new LocalTime();
     System.out.println("The current local time is: " + currentTime);
-    System.out.println(" bingo bingo");
+    System.out.println(" My program sucessful");
   }
 }
